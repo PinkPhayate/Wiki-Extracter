@@ -14,8 +14,9 @@ We use mecab and NEologd.
 
 ###ctrans.pyx
 This program was refered below url.
+
 url: http://funini.com/kei/py/yomi.shtml
 
 ###makedict.py
-This program create list.
+This program creates list extracted from Wikipedia-list dump-file.
 
